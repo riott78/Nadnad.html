@@ -88,7 +88,7 @@
     var musik = "";
     var ucapan = "selamat malam, untukmu nadia, yang memiliki wajah indah, ";
     var background1 = "IMG-20250326-WA0019.jpg;
-    var background2 = "foto2.jpg";
+    var background2 = "IMG-20250320-WA0013.jpg;
     var noWhatsapp = "6287870628025";
     var pesanWhatsapp = "Nadia, , Luvyuuu 💝";
   </script>
